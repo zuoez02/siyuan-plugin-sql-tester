@@ -1,8 +1,8 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.2.6",
+  "name": "siyuan-plugin-sql-tester",
+  "author": "zuoez02",
+  "url": "https://github.com/zuoez02/siyuan-plugin-sql-tester",
+  "version": "0.1.0",
   "minAppVersion": "2.10.12",
   "backends": [
     "windows",
@@ -14,23 +14,20 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "zh_CN": "思源SQL测试器"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "zh_CN": "思源SQL测试器，类似Query挂件的插件实现"
   },
   "readme": {
-    "en_US": "README.md",
-    "zh_CN": "README_zh_CN.md"
+    "zh_CN": "README.md"
   },
   "funding": {
     "custom": [
-      "https://afdian.net/a/frostime"
+      "https://afdian.net/a/zuoez02"
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "sql", "query", "思源SQL测试器"
   ]
 }

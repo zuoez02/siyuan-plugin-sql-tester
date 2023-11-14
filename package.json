@@ -1,8 +1,7 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "version": "0.2.6",
+  "name": "siyuan-plugin-sql-tester",
+  "version": "0.1.0",
   "type": "module",
-  "description": "This is a sample plugin based on vite and svelte for Siyuan (https://b3log.org/siyuan)",
   "repository": "",
   "homepage": "",
   "author": "",
@@ -29,5 +28,8 @@
     "vite": "^4.3.7",
     "vite-plugin-static-copy": "^0.15.0",
     "vite-plugin-zip-pack": "^1.0.5"
+  },
+  "dependencies": {
+    "siyuan-package-custom-block": "^1.0.2"
   }
 }
